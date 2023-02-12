@@ -1,0 +1,142 @@
+
+body 
+{
+height: 95%;
+width: 100%;
+
+    background-color: #a89cb9;
+    
+}
+.box
+{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+#search 
+{ margin: 2%;
+    padding: 1rem;
+   font-size: large;
+   text-decoration-color: black;
+  background-color: rgb(219, 208, 208);
+    border-radius: 50px;
+    border: 2px solid purple;
+    width:500px;
+    height:50px;
+    
+}
+#submit
+{
+
+  background: #5f5fb8;
+  color: #f7f7f7;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 8px 18px;
+  border-radius: 25px;
+  transition: background-color 1s;
+}
+#submit:hover {background-color: rgb(109, 199, 44);}
+#delhi
+{
+    border-radius: 10px;
+    margin: 2%;
+    width: 600px;
+    height:100px;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:whitesmoke;
+    cursor: pointer;
+    transition: width 1s, height 1s, font 1s;
+  
+
+}
+#delhi:hover {width:650px; height:150px; font-size: 50;}  
+#london
+{
+    border-radius: 10px;
+    margin: 2%;
+    width: 600px;
+    height:100px;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:whitesmoke;
+    cursor: pointer;
+    transition: width 1s, height 1s,font 1s;
+  
+
+}
+#london:hover {width:650px; height:150px; font-size: 50;}  
+#dc
+{
+    border-radius: 10px;
+    margin: 2%;
+    width: 600px;
+    height:100px;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:whitesmoke;
+    cursor: pointer;
+    transition: width 1s, height 1s, font-size 1s;
+  
+
+}
+#dc:hover {width:650px; height:150px; font-size: 50;}  
+
+.new
+{   display: flex;
+    flex-direction: column;
+    float: right;
+    width: 50%;
+    height: 100%;
+text-decoration-color: black;
+text-align: center;
+}
+#city
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: x-large;
+background-color: coral;
+}
+#temperature
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
+#description
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+    font-size: larger;
+}
+#day1
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
+#day1
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
+#day2
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
+#day3
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
+#day4
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
+#day5
+{
+    font-weight: bolder;
+    text-decoration-color: black;
+}
